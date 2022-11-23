@@ -1,0 +1,15 @@
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.csproj.AssemblyReference.cache
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.AssemblyInfoInputs.cache
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.AssemblyInfo.cs
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.csproj.CoreCompileInputs.cache
+C:\Обучение\C#\Practice_2\bin\Debug\net6.0\Practice_2.exe
+C:\Обучение\C#\Practice_2\bin\Debug\net6.0\Practice_2.deps.json
+C:\Обучение\C#\Practice_2\bin\Debug\net6.0\Practice_2.runtimeconfig.json
+C:\Обучение\C#\Practice_2\bin\Debug\net6.0\Practice_2.dll
+C:\Обучение\C#\Practice_2\bin\Debug\net6.0\Practice_2.pdb
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.dll
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\refint\Practice_2.dll
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.pdb
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\Practice_2.genruntimeconfig.cache
+C:\Обучение\C#\Practice_2\obj\Debug\net6.0\ref\Practice_2.dll
